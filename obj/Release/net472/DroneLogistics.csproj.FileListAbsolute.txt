@@ -1,0 +1,9 @@
+C:\Users\crawf\TechtonicaMods\NewMods\DroneLogistics\bin\Release\net472\DroneLogistics.dll
+C:\Users\crawf\TechtonicaMods\NewMods\DroneLogistics\bin\Release\net472\DroneLogistics.pdb
+C:\Users\crawf\TechtonicaMods\NewMods\DroneLogistics\obj\Release\net472\DroneLogistics.csproj.AssemblyReference.cache
+C:\Users\crawf\TechtonicaMods\NewMods\DroneLogistics\obj\Release\net472\DroneLogistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crawf\TechtonicaMods\NewMods\DroneLogistics\obj\Release\net472\DroneLogistics.AssemblyInfoInputs.cache
+C:\Users\crawf\TechtonicaMods\NewMods\DroneLogistics\obj\Release\net472\DroneLogistics.AssemblyInfo.cs
+C:\Users\crawf\TechtonicaMods\NewMods\DroneLogistics\obj\Release\net472\DroneLogistics.csproj.CoreCompileInputs.cache
+C:\Users\crawf\TechtonicaMods\NewMods\DroneLogistics\obj\Release\net472\DroneLogistics.dll
+C:\Users\crawf\TechtonicaMods\NewMods\DroneLogistics\obj\Release\net472\DroneLogistics.pdb
