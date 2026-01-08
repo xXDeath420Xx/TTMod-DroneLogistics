@@ -1,0 +1,10 @@
+{
+  "name": "DroneLogistics",
+  "version_number": "1.1.0",
+  "website_url": "https://github.com/CertiFried-Mods/TTMod-DroneLogistics",
+  "description": "Adds drone-based item transport system with pads, routes, and cargo management",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Equinox-EquinoxsModUtils-6.1.1"
+  ]
+}

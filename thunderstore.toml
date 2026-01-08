@@ -7,7 +7,7 @@ repository = "https://thunderstore.io"
 [package]
 namespace = "CertiFried"
 name = "DroneLogistics"
-versionNumber = "1.1.0"
+versionNumber = "1.1.1"
 description = "Automated drone transport system with sci-fi drone relays, power-based charging, and route management. Features multiple relay types with configurable charging speeds."
 websiteUrl = "https://github.com/xXDeath420Xx/TTMod-DroneLogistics"
 containsNsfwContent = false
